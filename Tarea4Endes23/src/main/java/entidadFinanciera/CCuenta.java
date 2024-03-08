@@ -6,6 +6,7 @@ package entidadFinanciera;
  * 
  * @author Manuel Olmos Ciari
  * @version 2
+ * @since 1
  */
 public class CCuenta {
 
